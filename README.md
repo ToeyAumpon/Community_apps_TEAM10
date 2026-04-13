@@ -1,4 +1,4 @@
-# TEAM10
+# Community_apps_TEAM10
 
 [日本語版](readme_jp.md)
 
